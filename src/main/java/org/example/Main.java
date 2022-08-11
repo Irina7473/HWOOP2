@@ -12,9 +12,21 @@ public class Main {
         b1.brickwork();
         p1.shouInfo();
         p1.aviating();
+        System.out.println("---------------------------------");
 
-
-        //Задание 2
+        //Задание 3
+        Product aqua = new Product("1 литр воды", "рубль", "копейки", 22, 15);
+        aqua.shouAmount();
+        aqua.priceReduce(25,0);
+        aqua.shouAmount();
+        Product milk = new Product("1 литр молока", "рубль", "копейки");
+        milk.priceSetting(60, 120);
+        milk.shouAmount();
+        milk.priceReduce(2, 15);
+        milk.shouAmount();
+        milk.priceReduce(0, 45);
+        milk.shouAmount();
+        System.out.println("---------------------------------");
 
     }
 }

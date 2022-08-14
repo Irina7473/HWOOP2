@@ -1,6 +1,6 @@
 package org.example;
 
-public class MusicalInstrument {
+public abstract class MusicalInstrument {
     String name;
     String sound;
     String desc;
@@ -12,10 +12,7 @@ public class MusicalInstrument {
         this.desc=desc;
         this.history=history;
     }
-
-    public void Sound(){
-        System.out.println("Звук инструмента : " +sound);
-    }
+    public abstract void Sound();
     public void Show(){
         System.out.println("Название инструмента : " +name);
     }
@@ -25,8 +22,4 @@ public class MusicalInstrument {
     public void History(){
         System.out.println("История создания инструмента : " +history);
     }
-
 }
-
-
-  //  Violin  Trombone  Ukulele    Cello

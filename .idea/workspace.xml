@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="872e4adb-2ccf-431d-93ed-3dec0ef5546e" name="Changes" comment="задание 3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MusicalInstrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ukulele.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Violin.java" afterDir="false" />
+    <list default="true" id="872e4adb-2ccf-431d-93ed-3dec0ef5546e" name="Changes" comment="задание 5">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ISort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Human.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MusicalInstrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MusicalInstrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Ukulele.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Ukulele.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Violin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Violin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,15 +45,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/IRINA/STEP/JAVA/урок3/untitled1",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/IRINA/STEP/JAVA/урок3/untitled1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
@@ -89,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660236831877</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="задание 5">
+      <created>1660366051685</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660366051685</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +117,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="задание 1" />
     <MESSAGE value="задание 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="задание 3" />
+    <MESSAGE value="задание 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="задание 5" />
   </component>
 </project>

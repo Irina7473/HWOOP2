@@ -23,7 +23,7 @@ public class Human {
     public void setAge(int age) {
         this.age = age;
     }
-public Human (String firstName, String lastName, int age)
+    public Human (String firstName, String lastName, int age)
     {
         this.firstName=firstName;
         this.lastName=lastName;
